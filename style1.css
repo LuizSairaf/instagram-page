@@ -10,7 +10,7 @@ font-size: 14px;
 body{
     width: 100%;
     min-height: 100vh;
-    background-color: rgb(243, 243, 243) ;
+    background-color: lightblue ;
     margin: 0;
     padding: 0;
     display: flex;
@@ -82,7 +82,7 @@ body{
 
 }
 .instagram-login{
-    background-color: #0095f6;
+    background-color: rgb(69, 179, 216);
     color: #ffffff;
     padding: 8px;
     border-radius: 4px;
@@ -125,10 +125,10 @@ body{
 }
 
 .app-download:nth-child(1){
-    background-image: url('imagens/apple-button.png') ;
+    background-image: url('img/apple-button.png') ;
 }
 .app-download:nth-child(2){
-    background-image: url('imagens/googleplay-button.png');
+    background-image: url('img/googleplay-button.png');
 }
 
 /* media queries*/
